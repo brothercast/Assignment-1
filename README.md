@@ -24,8 +24,31 @@ This exercise demonstrated:
 
 - Overall, it seems like the strict cancellation policy has a higher number of reviews than the flexible cancellation policy, but the number of reviews does not necessarily impact the quality of the reviews.
 
+# Github URL: 
+https://github.com/brothercast/Assignment-1/
+
+# Libraries used:
+matplotlib==3.5.2
+matplotlib-inline=0.1.3
+numpy==1.23.0
+pandas==1.4.3
+scikit-learn==1.1.1
+
+# Files Description:
+Assignment-1.ipynb: This is the Jupyter Notebook that contains the code for the analysis.
+listings.csv: The AirBNB dataset used in this assignment.
+README.md: This file.
+
+# Licensing Information:
+Data Source: https://www.kaggle.com/seattleairbnb/seattle-airbnb-data-set
+Acknowledgement: This data set is provided by the Kaggle team.
+License: The data set is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+
+
+
 # Thank you!
 
-- Github URL: https://github.com/brothercast/Assignment-1/
+
 
 - Medium Blog URL: https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152
