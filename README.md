@@ -18,5 +18,6 @@ I have provided a detailed analysis in the notebook providing full visualization
 
 # Thank you!
 
-Github URL: https://github.com/brothercast/Assignment-1/
-Medium Blog URL: https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152
+- Github URL: https://github.com/brothercast/Assignment-1/
+
+- Medium Blog URL: https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152
