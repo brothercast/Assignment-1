@@ -16,4 +16,12 @@ Included in this repository is the Jupyter Notebook used to work out the questio
 
 I have provided a detailed analysis in the notebook providing full visualizations and explanations of my findings.
 
+# Conclusion:
+This exercise demonstrated: 
+- That there may be a correlation to the number of listings a host has and the number of negative reviews they have.
+
+- Having a greater number of reviews does not necessarily indicate that a host has a higher rating..
+
+- Overall, it seems like the strict cancellation policy has a higher number of reviews than the flexible cancellation policy, but the number of reviews does not necessarily impact the quality of the reviews.
+
 # Thank you!
