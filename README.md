@@ -17,3 +17,6 @@ Included in this repository is the Jupyter Notebook used to work out the questio
 I have provided a detailed analysis in the notebook providing full visualizations and explanations of my findings.
 
 # Thank you!
+
+Github URL: https://github.com/brothercast/Assignment-1/
+Medium Blog URL: https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152
