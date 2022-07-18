@@ -4,7 +4,8 @@ README.md
 
  In this assignment, we are asked to come up with three questions about a public dataset
 
-I chose the Seattle AirBnB dataset as I live in Seattle and it seemed like a good place to start. 
+# Business Understanding
+I chose the Seattle AirBnB dataset as I live in Seattle and it seemed like a good place to start. There are a lot of headlines about the impact of AirBNB on the housing and rental market in the United States. As someone who also works in equitable housing, I wanted to dig into some of the data to see if there are any interesting correlations between the AirBNB hosts who have many listings in an area, and whether the ratings of the listings are positive or negative.
 
 The questions are regarding the the relationship between hosts and their ratings such as:
 - Do hosts with more listings correlate to lower overall review scores?
@@ -15,4 +16,4 @@ Included in this repository is the Jupyter Notebook used to work out the questio
 
 I have provided a detailed analysis in the notebook providing full visualizations and explanations of my findings.
 
-### Thank you!
+# Thank you!
