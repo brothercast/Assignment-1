@@ -25,3 +25,7 @@ This exercise demonstrated:
 - Overall, it seems like the strict cancellation policy has a higher number of reviews than the flexible cancellation policy, but the number of reviews does not necessarily impact the quality of the reviews.
 
 # Thank you!
+
+- Github URL: https://github.com/brothercast/Assignment-1/
+
+- Medium Blog URL: https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152
